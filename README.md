@@ -12,8 +12,7 @@ this is second commit
 
 Mangesh changes
 bhoopesh changes
-
-
-
 fixed
 
+
+cout<<hello
