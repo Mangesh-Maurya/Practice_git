@@ -10,9 +10,13 @@ this is second commit
 
 
 
+<<<<<<< HEAD
+Mangesh changes
+=======
 bhoopesh changes
 
 
 
 fixed
+>>>>>>> 2b5914784fc89fe23a26deaed15b3bc9a097780f
 
